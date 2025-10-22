@@ -1,0 +1,11 @@
+--- KẾT QUẢ MÔ HÌNH RANDOM FOREST (28 Features) ---
+Accuracy: 0.5229
+
+              precision    recall  f1-score   support
+
+    GIẢM (0)     0.5392    0.7534    0.6286      1160
+    TĂNG (1)     0.4743    0.2567    0.3331      1005
+
+    accuracy                         0.5229      2165
+   macro avg     0.5067    0.5051    0.4808      2165
+weighted avg     0.5090    0.5229    0.4914      2165

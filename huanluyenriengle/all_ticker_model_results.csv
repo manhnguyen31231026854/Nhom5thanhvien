@@ -1,0 +1,6 @@
+Ticker,Accuracy,Precision_TANG,Recall_TANG,Precision_GIAM,Recall_GIAM,Test_Samples,Best_Params
+FPT,0.5057736720554272,0.5588235294117647,0.0871559633027523,0.5012531328320802,0.9302325581395349,433,"{'subsample': 0.9, 'n_estimators': 100, 'max_depth': 3, 'learning_rate': 0.01, 'colsample_bytree': 0.9}"
+HPG,0.5404157043879908,0.48717948717948717,0.19289340101522842,0.5521126760563381,0.8305084745762712,433,"{'subsample': 0.8, 'n_estimators': 100, 'max_depth': 7, 'learning_rate': 0.05, 'colsample_bytree': 0.8}"
+KDH,0.48498845265588914,0.4419642857142857,0.5025380710659898,0.5311004784688995,0.4703389830508475,433,"{'subsample': 0.9, 'n_estimators': 300, 'max_depth': 5, 'learning_rate': 0.1, 'colsample_bytree': 1.0}"
+PNJ,0.5381062355658198,0.5271317829457365,0.3285024154589372,0.5427631578947368,0.7300884955752213,433,"{'subsample': 0.9, 'n_estimators': 200, 'max_depth': 7, 'learning_rate': 0.1, 'colsample_bytree': 1.0}"
+VCB,0.5427251732101617,0.45161290322580644,0.3010752688172043,0.5792880258899676,0.7246963562753036,433,"{'subsample': 1.0, 'n_estimators': 300, 'max_depth': 5, 'learning_rate': 0.1, 'colsample_bytree': 0.9}"

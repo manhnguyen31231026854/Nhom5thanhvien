@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+    GIẢM (0)       0.53      0.47      0.50       236
+    TĂNG (1)       0.44      0.50      0.47       197
+
+    accuracy                           0.48       433
+   macro avg       0.49      0.49      0.48       433
+weighted avg       0.49      0.48      0.49       433

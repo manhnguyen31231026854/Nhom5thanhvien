@@ -1,0 +1,12 @@
+--- KẾT QUẢ ĐÁNH GIÁ MÔ HÌNH GỘP (POOLED MODEL) ---
+Accuracy của XGBoost: 0.5339
+
+Báo cáo Phân loại chi tiết:
+              precision    recall  f1-score   support
+
+    GIẢM (0)     0.5565    0.6414    0.5959      1160
+    TĂNG (1)     0.4976    0.4100    0.4495      1005
+
+    accuracy                         0.5339      2165
+   macro avg     0.5270    0.5257    0.5227      2165
+weighted avg     0.5291    0.5339    0.5280      2165
