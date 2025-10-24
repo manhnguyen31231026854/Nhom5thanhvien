@@ -8,9 +8,9 @@
 ---
 
 ### 👥 Nhóm sinh viên
-| Họ tên                  | MSSV          |
+| Họ tên                  | MSSV         |
 |------------------------|---------------|
-| Phan Minh Thư          | 31231025131   |
+| Phan Minh Thư (Nhóm trưởng)          | 31231025131   |
 | Ngô Phước Thành        | 31231025110   |
 | Huỳnh Lê Như An        | 31231020088   |
 | Nguyễn Đức Mạnh        | 31231026854   |
@@ -41,15 +41,8 @@ Khuyến khích sinh viên phát triển tư duy sáng tạo, độc lập và k
 ---
 
 ### 🛠️ Công cụ sử dụng
-- Python 3.x, Jupyter Notebook  
-- Stata 17  
+- Python 3.x, Jupyter Notebook   
 - Git & GitHub  
-- Thư viện: `pandas`, `matplotlib`, `yfinance`, `statsmodels`, `scikit-learn`, `xgboost`, `seaborn`
+- Thư viện: `pandas`,  `xgboost`
 
----
 
-> 📌 *Lưu ý: Repo này phục vụ mục đích học tập tại UEH, không sử dụng cho mục đích thương mại.*
-
----
-
-Nếu bạn muốn mình thêm phần mô tả chi tiết cho từng mô hình hoặc hướng dẫn chạy notebook, mình có thể hỗ trợ ngay. Bạn muốn thêm phần đánh giá kết quả mô hình không?
