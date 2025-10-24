@@ -1,0 +1,13 @@
+--- KẾT QUẢ XGBOOST GỘP - TINH CHỈNH KỸ HƠN (28 Features) ---
+Scoring: average_precision, n_iter: 50
+Tham số tốt nhất: {'subsample': 0.8, 'reg_lambda': 0.1, 'reg_alpha': 1.0, 'n_estimators': 300, 'max_depth': 3, 'learning_rate': 0.02, 'gamma': 0.2, 'colsample_bytree': 0.9}
+Accuracy: 0.5206
+
+              precision    recall  f1-score   support
+
+    GIẢM (0)     0.5441    0.6483    0.5917      1160
+    TĂNG (1)     0.4789    0.3731    0.4195      1005
+
+    accuracy                         0.5206      2165
+   macro avg     0.5115    0.5107    0.5056      2165
+weighted avg     0.5139    0.5206    0.5117      2165

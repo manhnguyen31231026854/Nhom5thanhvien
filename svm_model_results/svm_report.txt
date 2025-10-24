@@ -1,11 +1,12 @@
---- KẾT QUẢ MÔ HÌNH SVM (SVC) (28 Features) ---
-Accuracy: 0.5192
+--- KẾT QUẢ SVM (SVC) - ĐÃ TINH CHỈNH (28 Features) ---
+Tham số tốt nhất: {'gamma': np.float64(0.001), 'C': np.float64(0.21544346900318834)}
+Accuracy: 0.5501
 
               precision    recall  f1-score   support
 
-    GIẢM (0)     0.5513    0.5509    0.5511      1160
-    TĂNG (1)     0.4821    0.4826    0.4823      1005
+    GIẢM (0)     0.5618    0.7293    0.6347      1160
+    TĂNG (1)     0.5235    0.3433    0.4147      1005
 
-    accuracy                         0.5192      2165
-   macro avg     0.5167    0.5167    0.5167      2165
-weighted avg     0.5192    0.5192    0.5192      2165
+    accuracy                         0.5501      2165
+   macro avg     0.5426    0.5363    0.5247      2165
+weighted avg     0.5440    0.5501    0.5325      2165

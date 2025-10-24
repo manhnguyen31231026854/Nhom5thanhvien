@@ -1,60 +1,60 @@
 --- FPT ---
-Accuracy: 0.5058
+Accuracy: 0.5266
               precision    recall  f1-score   support
 
-    GIẢM (0)       0.50      0.93      0.65       215
-    TĂNG (1)       0.56      0.09      0.15       218
+    GIẢM (0)       0.51      0.87      0.65       215
+    TĂNG (1)       0.60      0.18      0.28       218
 
-    accuracy                           0.51       433
-   macro avg       0.53      0.51      0.40       433
-weighted avg       0.53      0.51      0.40       433
+    accuracy                           0.53       433
+   macro avg       0.56      0.53      0.46       433
+weighted avg       0.56      0.53      0.46       433
 
 
 --- HPG ---
-Accuracy: 0.5404
+Accuracy: 0.5242
               precision    recall  f1-score   support
 
-    GIẢM (0)       0.55      0.83      0.66       236
-    TĂNG (1)       0.49      0.19      0.28       197
+    GIẢM (0)       0.55      0.74      0.63       236
+    TĂNG (1)       0.46      0.26      0.34       197
 
-    accuracy                           0.54       433
-   macro avg       0.52      0.51      0.47       433
-weighted avg       0.52      0.54      0.49       433
+    accuracy                           0.52       433
+   macro avg       0.50      0.50      0.48       433
+weighted avg       0.51      0.52      0.50       433
 
 
 --- KDH ---
-Accuracy: 0.4850
+Accuracy: 0.4688
               precision    recall  f1-score   support
 
-    GIẢM (0)       0.53      0.47      0.50       236
-    TĂNG (1)       0.44      0.50      0.47       197
+    GIẢM (0)       0.53      0.20      0.29       236
+    TĂNG (1)       0.45      0.79      0.58       197
 
-    accuracy                           0.48       433
-   macro avg       0.49      0.49      0.48       433
-weighted avg       0.49      0.48      0.49       433
+    accuracy                           0.47       433
+   macro avg       0.49      0.50      0.43       433
+weighted avg       0.50      0.47      0.42       433
 
 
 --- PNJ ---
-Accuracy: 0.5381
-              precision    recall  f1-score   support
-
-    GIẢM (0)       0.54      0.73      0.62       226
-    TĂNG (1)       0.53      0.33      0.40       207
-
-    accuracy                           0.54       433
-   macro avg       0.53      0.53      0.51       433
-weighted avg       0.54      0.54      0.52       433
-
-
---- VCB ---
 Accuracy: 0.5427
               precision    recall  f1-score   support
 
-    GIẢM (0)       0.58      0.72      0.64       247
-    TĂNG (1)       0.45      0.30      0.36       186
+    GIẢM (0)       0.54      0.87      0.66       226
+    TĂNG (1)       0.57      0.19      0.28       207
 
     accuracy                           0.54       433
-   macro avg       0.52      0.51      0.50       433
-weighted avg       0.52      0.54      0.52       433
+   macro avg       0.55      0.53      0.47       433
+weighted avg       0.55      0.54      0.48       433
+
+
+--- VCB ---
+Accuracy: 0.5242
+              precision    recall  f1-score   support
+
+    GIẢM (0)       0.57      0.68      0.62       247
+    TĂNG (1)       0.43      0.32      0.36       186
+
+    accuracy                           0.52       433
+   macro avg       0.50      0.50      0.49       433
+weighted avg       0.51      0.52      0.51       433
 
 
